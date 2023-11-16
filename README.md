@@ -64,12 +64,19 @@ op
 ## OUTPUT:
 ![image](https://github.com/Naveenaa28/ODD2023---Datascience---Ex-02/assets/131433133/435f044e-94c9-48d2-971e-53052683560d)
 ![image](https://github.com/Naveenaa28/ODD2023---Datascience---Ex-02/assets/131433133/0ec2b1ed-88b0-471c-81e6-2e3fe4287a59)
+
 ![image](https://github.com/Naveenaa28/ODD2023---Datascience---Ex-02/assets/131433133/249a7150-536d-4bfa-abe9-c57aa1fe3b32)
+
 ![image](https://github.com/Naveenaa28/ODD2023---Datascience---Ex-02/assets/131433133/45015133-a0c7-4154-bd64-5b969db7f72e)
+
 ![image](https://github.com/Naveenaa28/ODD2023---Datascience---Ex-02/assets/131433133/6d944d59-2b2c-4153-9047-40afe41fcf95)
+
 ![image](https://github.com/Naveenaa28/ODD2023---Datascience---Ex-02/assets/131433133/7db61a85-70ee-4619-bd76-2688be29bfda)
+
 ![image](https://github.com/Naveenaa28/ODD2023---Datascience---Ex-02/assets/131433133/1261cf09-cb58-4b2f-a6cd-7ca5f7f746a8)
+
 ![image](https://github.com/Naveenaa28/ODD2023---Datascience---Ex-02/assets/131433133/87623320-45d1-45df-b46f-4493afdf3eb2)
+
 ![image](https://github.com/Naveenaa28/ODD2023---Datascience---Ex-02/assets/131433133/8768ba05-ae9d-418a-a5f9-b21fff838845)
 ## RESULT:
 Thus, the given data is read,remove outliers and save a new dataframe was created and executed successfully.
